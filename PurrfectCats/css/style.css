@@ -1,0 +1,31 @@
+/*
+   New Perspectives on HTML and XHTML 5th Edition
+   Final Project
+
+   Website Style Sheet
+   Author: Richard O'Brien
+   Date:  6/8/2015
+
+   Filename:         cats.css
+   Supporting Files: 
+
+*/
+
+
+body	{background-color: moccasin}
+
+h1, h2	{background-color: cadetblue; width: 15em; text-indent: 1em}
+
+h3	{background-color: cadetblue; width: 35em; text-indent: 1em}
+
+#outer	{width: 770px}
+
+#links  {float: left; width: 10em}
+	     
+
+#inner  {margin-left: 225px; padding-left: 10px;
+	     border-left: 0.1em solid green}
+
+a	{display: block; width: 180px; margin: 5px; padding: 5px; background-color: cadetblue;
+	 border-style: solid; border-top-width: 1px; border-left-width: 1px;
+	 border-bottom-width: 3px; border-right-width: 3px; border-color: black}
